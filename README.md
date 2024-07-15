@@ -41,14 +41,3 @@ python main.py
 ## Acknowlegment
 This repo benefits from [OANet](https://github.com/zjhthu/OANet) and [CLNet](https://github.com/sailor-z/CLNet). Thanks for their wonderful works.
 
-## Citation
-Thanks for citing our paper:
-```
-@inproceedings{liao2024vsformer,
-  title={MSGA-Net: Progressive Feature Matching via Multi-layer Sparse Graph Attention},
-  author={Gong, Zhepeng and Xiao, Guobao and Shi, Ziwei and Chen, Riqing and Yu, Jun},
-  volume={34},
-  pages={5765--5775},
-  year={2024}
-}
-```

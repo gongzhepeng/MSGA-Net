@@ -1,2 +1,4 @@
 # MSGA-Net
-Pytorch implementation of MSGA-Net by Zhepeng Gong
+Official implementation of MSGA-Net: Progressive Feature Matching via Multi-layer Sparse Graph Attention.
+
+The paper has been accepted by TCSVT2024.

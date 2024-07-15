@@ -24,7 +24,7 @@ python install -r requirements.txt
 Follow the instructions provided [here](https://github.com/zjhthu/OANet) for downloading and preprocessing datasets. 
 
 ### Test pretrained model
-We provide the model trained on YFCC100M described in our paper. Run the test script to get results in our paper.
+We provide the model trained on YFCC100M described in our paper. Run the test script to get results in our paper. Download pretrained model from [here](https://drive.google.com/drive/folders/1667j392xUVXLZYj1RrJeOkHfSPALCcdd).
 ```
 cd ./core 
 python main.py --run_mode=test --model_path=../weight --res_path=../weight/yfcc/sift-2000/ --use_ransac=False
